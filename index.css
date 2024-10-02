@@ -5,3 +5,36 @@
 body{
     background-color: rgb(136, 58, 208);
 }
+
+li a:hover{
+    color: brown;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+nav{
+    background-color: antiquewhite;
+    width: 150px;
+    height: 65px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+
+h1, h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #750101;
+    padding:5000000000px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:50px;
+}
